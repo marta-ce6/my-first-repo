@@ -1,0 +1,4 @@
+#Telecomunications
+
+It is the exchange of information over long distances using electronic means
+The information can be voice, data or video transmited via fiber optics, satellites or cellular networks
